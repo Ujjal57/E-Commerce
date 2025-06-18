@@ -128,11 +128,10 @@ http://localhost/E-Commerce/admin/admin_login.php
 
 ## 🖼️ Screenshots
 
-> (Add your screenshots in the `screenshots/` folder and embed them like below)
+| Intro | Home | Cart |
+|-------|------|------|
+| ![Intro](images/intro.jpg) | ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png) |
 
-```
-| ![Intro](screenshots/intro.gif) | ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png) |
-```
 
 ---
 
