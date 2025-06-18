@@ -18,50 +18,59 @@ A full-featured electronics eCommerce website built using **HTML, CSS, JavaScrip
 ## 📂 Project Structure
 
 ```
-📁 E-Commerce
-│── admin/
-│   ├── admin_accounts.php   # Pickle file containing movie data
-│   ├── admin_login.php       # Precomputed similarity matrix
-│   ├── dashboard.php           # Movie dataset
-│   ├── messages.php
-│   ├── placed_orders.php
-│   ├── products.php
-│   ├── register_admin.php
-│   ├── update_product.php
-│   ├── update_profile.php
-│   ├── users_accounts.php        # Movie credits dataset
-|── components/
-│   ├── admin_header.php
-│   ├── admin_logout.php
-│   ├── connect.php
-│   ├── footer.php
-│   ├── user_header.php
-│   ├── user_logout.php
-│   ├── wishlist_cart.php            # CSS for frontend styling
-|── css/
-|   ├── admin_style.css
-|   ├── style.css            # HTML template for the homepage
-│── images                    # Main Streamlit application
-│── js
-│   ├── admin_script.js
-│   ├── script.js         # Python dependencies
-│── uploaded_img
-│── README.md              # Project documentation
-├── about.php
-├── cart.php
-├── category.php
-├── checkout.php
-├── contact.php
-├── home.php
-├── orders.php
-├── quick_view.php
-├── search_page.php
-├── shop.php
-├── shop_db.sql
-├── update_user.php
-├── user_login.php
-├── user_register.php
-├── wishlist.php 
+📁 E-Commerce                         # Root project directory
+│
+│── admin/                           # Backend admin panel pages
+│   ├── admin_accounts.php          # Manage admin users
+│   ├── admin_login.php             # Admin login page
+│   ├── dashboard.php               # Admin dashboard overview
+│   ├── messages.php                # View messages submitted by users
+│   ├── placed_orders.php           # View all customer orders
+│   ├── products.php                # Admin interface to add/manage products
+│   ├── register_admin.php          # Register new admin users
+│   ├── update_product.php          # Edit existing product information
+│   ├── update_profile.php          # Admin profile update page
+│   ├── users_accounts.php          # View registered user accounts
+│
+│── components/                     # Reusable PHP components (included in various pages)
+│   ├── admin_header.php            # Admin panel header navigation
+│   ├── admin_logout.php            # Logout script for admin
+│   ├── connect.php                 # MySQL database connection file
+│   ├── footer.php                  # Site-wide footer section
+│   ├── user_header.php             # Header navigation for user pages
+│   ├── user_logout.php             # Logout script for users
+│   ├── wishlist_cart.php           # Handles wishlist/cart add/remove actions
+│
+│── css/                            # Stylesheets
+│   ├── admin_style.css             # Styles for admin dashboard and pages
+│   ├── style.css                   # Styles for user-facing frontend
+│
+│── images/                         # Contains product and UI images
+│
+│── js/                             # JavaScript files for interactivity
+│   ├── admin_script.js             # Admin panel-specific JS (form validation, AJAX, etc.)
+│   ├── script.js                   # Frontend JS for features like sliders, animations
+│
+│── uploaded_img/                   # Uploaded product images by admin
+│
+│── README.md                       # Project documentation file (usage, structure, setup)
+│
+├── about.php                       # About page with company/project info
+├── cart.php                        # Shopping cart page
+├── category.php                    # Displays products by category
+├── checkout.php                    # Checkout page to confirm and place orders
+├── contact.php                     # Contact form for customer support
+├── home.php                        # Main landing page with slider/banner
+├── orders.php                      # View user's past orders
+├── quick_view.php                  # Quick product preview popup or page
+├── search_page.php                 # Displays search results from user input
+├── shop.php                        # Main product listing/shop page
+├── shop_db.sql                     # SQL dump of database schema and sample data
+├── update_user.php                 # Allows users to update their profile
+├── user_login.php                  # User login page
+├── user_register.php               # User registration page
+├── wishlist.php                    # Wishlist page to view saved items
+
 ```
 
 ---
