@@ -128,6 +128,29 @@ http://localhost/E-Commerce/admin/admin_login.php
 
 ## 🖼️ Screenshots
 
+<h3>🖼️ Preview</h3>
+
+<p>
+  <img src="images/intro.png" alt="Intro Animation" width="300"/>
+  <br><em>Intro Animation</em>
+</p>
+
+<p>
+  <img src="screenshots/home.png" alt="Home Page" width="300"/>
+  <br><em>Home Page</em>
+</p>
+
+<p>
+  <img src="screenshots/cart.png" alt="Cart Page" width="300"/>
+  <br><em>Cart Page</em>
+</p>
+
+<p>
+  <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="300"/>
+  <br><em>Admin Dashboard</em>
+</p>
+
+
 | Intro | Home | Cart |
 |-------|------|------|
 | ![Intro](images/intro.png) | ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png) |
