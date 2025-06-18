@@ -130,7 +130,7 @@ http://localhost/E-Commerce/admin/admin_login.php
 
 | Intro | Home | Cart |
 |-------|------|------|
-| ![Intro](images/intro.png) | ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png) |
+| ![Intro](intro.png) | ![Home](screenshots/home.png) | ![Cart](screenshots/cart.png) |
 
 
 ---
