@@ -129,7 +129,7 @@ http://localhost/E-Commerce/admin/admin_login.php
 ## 🖼️ Screenshots
 
 <p>
-  <br><em>Intro Animation</em>
+  <em>Intro Animation</em><br>
   <img src="images/intro.png" alt="Intro Animation" width="300"/>
 </p>
 
