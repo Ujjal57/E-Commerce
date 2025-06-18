@@ -134,22 +134,22 @@ http://localhost/E-Commerce/admin/admin_login.php
 </p>
 
 <p>
-  <br><em>Home Page</em>
+  <em>Home Page</em><br>
   <img src="images/home.png" alt="Home Page" width="300"/>
 </p>
 
 <p>
-  <br><em>Register Page</em>
+  <em>Register Page</em><br>
   <img src="images/reg.png" alt="Cart Page" width="300"/>
 </p>
 
 <p>
-  <br><em>Cart Page</em>
+  <em>Cart Page</em><br>
   <img src="images/cart.png" alt="Admin Dashboard" width="300"/>
 </p>
 
 <p>
-  <br><em>Admin Dashboard</em>
+  <em>Admin Dashboard</em><br>
   <img src="images/admin_dashboard.png" alt="Admin Dashboard" width="300"/>
 </p>
 
