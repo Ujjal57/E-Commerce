@@ -145,12 +145,12 @@ http://localhost/E-Commerce/admin/admin_login.php
 
 <p>
   <em>Cart Page</em><br>
-  <img src="images/cart.png" alt="Admin Dashboard" width="300"/>
+  <img src="images/order.png" alt="Admin Dashboard" width="300"/>
 </p>
 
 <p>
   <em>Admin Dashboard</em><br>
-  <img src="images/admin_dashboard.png" alt="Admin Dashboard" width="300"/>
+  <img src="images/admin.png" alt="Admin Dashboard" width="300"/>
 </p>
 
 ---
