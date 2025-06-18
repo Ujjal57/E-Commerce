@@ -71,8 +71,8 @@ A full-featured electronics eCommerce website built using **HTML, CSS, JavaScrip
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Movie-Recommender-System.git
-cd Movie-Recommender-System
+git clone https://github.com/Ujjal57/E-Commerce.git
+cd E-Commerce
 ```
 
 ### 🔹 2. Create a Virtual Environment (Optional but Recommended)
