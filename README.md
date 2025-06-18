@@ -1,34 +1,66 @@
-🛒 Shop Nix – Electronics eCommerce Website
+# 🛒 Shop Nix – Electronics eCommerce Website
 
-A machine learning-based movie recommendation system built with Python and Streamlit. This system suggests movies based on user input (either by movie title or genre) and provides posters and trailers fetched using the TMDB API.
+A full-featured electronics eCommerce website built using **HTML, CSS, JavaScript, PHP, and MySQL**. It supports both **user** and **admin login**, showcases products by category, allows cart and wishlist management, and features a clean, animated UI inspired by Netflix’s intro style.
 
 ## 🚀 Features
 
-- 🔍 **Search by Movie Name** – Get recommendations based on a specific movie.
-- 🎭 **Search by Genre** – Find movies within a selected genre.
-- 📽️ **Movie Posters & Trailers** – Fetch movie images and trailers from TMDB.
-- 🎯 **Machine Learning-Based Recommendations** – Uses cosine similarity for recommendations.
-- 🌎 **Real-Time Greeting System** – Displays a greeting message based on the time of the day.
+
+- 🔐 **User & Admin Login/Register**
+- 🛍️ **Shop by Categories** – Laptop, Smartphone, Camera, and Watch
+- ❤️ **Wishlist & Cart Functionality**
+- 🛒 **Product Purchase and Order Simulation**
+- 📦 **Admin Dashboard for Product Management**
+- 📜 **Order History and Management**
+- 📱 **Responsive Design using Flexbox and Swiper.js**
 
 ---
 
 ## 📂 Project Structure
 
 ```
-📁 Movie-Recommender-System
-│── model/
-│   ├── movie_list.pkl        # Pickle file containing movie data
-│   ├── similarity.pkl        # Precomputed similarity matrix
-│   ├── movies.csv            # Movie dataset
-│   ├── credits.csv           # Movie credits dataset
-|── static/
-|   ├── styles.css            # CSS for frontend styling
-|── templates/
-|   ├── index.html            # HTML template for the homepage
-│── app.py                    # Main Streamlit application
-│── requirements.txt           # Python dependencies
-│── README.md                  # Project documentation
-|── notebook86c26b4f17.ipynb
+📁 E-Commerce
+│── admin/
+│   ├── admin_accounts.php   # Pickle file containing movie data
+│   ├── admin_login.php       # Precomputed similarity matrix
+│   ├── dashboard.php           # Movie dataset
+│   ├── messages.php
+│   ├── placed_orders.php
+│   ├── products.php
+│   ├── register_admin.php
+│   ├── update_product.php
+│   ├── update_profile.php
+│   ├── users_accounts.php        # Movie credits dataset
+|── components/
+│   ├── admin_header.php
+│   ├── admin_logout.php
+│   ├── connect.php
+│   ├── footer.php
+│   ├── user_header.php
+│   ├── user_logout.php
+│   ├── wishlist_cart.php            # CSS for frontend styling
+|── css/
+|   ├── admin_style.css
+|   ├── style.css            # HTML template for the homepage
+│── images                    # Main Streamlit application
+│── js
+│   ├── admin_script.js
+│   ├── script.js         # Python dependencies
+│── uploaded_img                  # Project documentation
+├── about.php
+├── cart.php
+├── category.php
+├── checkout.php
+├── contact.php
+├── home.php
+├── orders.php
+├── quick_view.php
+├── search_page.php
+├── shop.php
+├── shop_db.sql
+├── update_user.php
+├── user_login.php
+├── user_register.php
+├── wishlist.php 
 ```
 
 ---
