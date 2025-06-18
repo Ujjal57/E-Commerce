@@ -45,7 +45,8 @@ A full-featured electronics eCommerce website built using **HTML, CSS, JavaScrip
 │── js
 │   ├── admin_script.js
 │   ├── script.js         # Python dependencies
-│── uploaded_img                  # Project documentation
+│── uploaded_img
+│── README.md              # Project documentation
 ├── about.php
 ├── cart.php
 ├── category.php
