@@ -91,7 +91,7 @@ cd E-Commerce
 - Copy the project folder to:
 
 ```makefile
-C:\xampp\htdocs\projectdone
+C:\xampp\htdocs\E-Commerce
 ```
 
 ### 🔹 3. Create and Import Database
@@ -102,10 +102,15 @@ C:\xampp\htdocs\projectdone
 
 ### 🔹 4. Run the Website
 
-Open in your browser:
+Open in your browser for user:
 
 ```arduino
-http://localhost/projectdone
+http://localhost/E-Commerce
+```
+Open in your browser for admin:
+
+```arduino
+http://localhost/E-Commerce/admin/admin_login.php
 ```
 
 ---
