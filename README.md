@@ -129,27 +129,27 @@ http://localhost/E-Commerce/admin/admin_login.php
 ## 🖼️ Screenshots
 <p align="center">
   <em>Intro Animation</em><br>
-  <img src="images/intro.png" alt="Intro Animation" width="300"/>
+  <img src="images/intro.png" alt="Intro Animation" width="700"/>
 </p>
 
 <p align="center">
   <em>Home Page</em><br>
-  <img src="images/home.png" alt="Home Page" width="300"/>
+  <img src="images/home.png" alt="Home Page" width="700"/>
 </p>
 
 <p align="center">
   <em>Register Page</em><br>
-  <img src="images/reg.png" alt="Register Page" width="300"/>
+  <img src="images/reg.png" alt="Register Page" width="700"/>
 </p>
 
 <p align="center">
   <em>Cart Page</em><br>
-  <img src="images/order.png" alt="Cart Page" width="300"/>
+  <img src="images/order.png" alt="Cart Page" width="700"/>
 </p>
 
 <p align="center">
   <em>Admin Dashboard</em><br>
-  <img src="images/admin.png" alt="Admin Dashboard" width="300"/>
+  <img src="images/admin.png" alt="Admin Dashboard" width="700"/>
 </p>
 
 
