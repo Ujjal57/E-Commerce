@@ -181,4 +181,4 @@ Password: Ujjal
 
 ## 👨‍💻 Developer
 
-**Ujjal** – *Full Stack Developer*
+**Ujjal** 
